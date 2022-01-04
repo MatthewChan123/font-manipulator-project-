@@ -1,0 +1,27 @@
+.header {
+    font-size:20px;
+    color:crimson;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px purple;
+    background-image:linear-gradient(to bottom,lightblue,hotpink); 
+}
+.note {
+    font-size:15px;
+    color:darkblue;
+}
+.footer {
+    font-size:20px;
+    color:black;
+    bottom:0;
+    width:100%;
+    position:fixed;
+    text-align:center;
+    background-color:lightseagreen;
+
+}
+canvas {
+    border:22px soild black;
+    border-width:20px;
+    box-shadow:5px 5px 5px black;
+}
